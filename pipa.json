@@ -1,13 +1,14 @@
 {
   "response": [
     {
-      "datetime": "1731534656",
-      "filename": "lineage-22.0-20241113-UNOFFICIAL-pipa.zip",
-      "id": "49cdc31e51e230fc981dbb1b35c5c81d6a1fbbc5ec98db0254a31bb8b46df5eb",
+      "datetime": "1731836473",
+      "filename": "lineage-22.0-20241117-UNOFFICIAL-pipa.zip",
+      "id": "487f6753d3c2c59068642801e41801dbebcddb2155e83e2f1d7348ec0a5c4bc8",
       "romtype": "UNOFFICIAL",
-      "size": "1205404329",
-      "url": "https://github.com/pachdomenic/lineage_OTA/releases/download/lineage-22.0-20241113-UNOFFICIAL-pipa/lineage-22.0-20241113-UNOFFICIAL-pipa.zip",
+      "size": "1202451843",
+      "url": "https://github.com/pachdomenic/Lineage_OTA/releases/download/lineage-22.0-20241117-UNOFFICIAL-pipa/lineage-22.0-20241117-UNOFFICIAL-pipa.zip",
       "version": "22.0"
     }
   ]
 }
+
