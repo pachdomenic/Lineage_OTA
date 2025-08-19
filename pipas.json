@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1755648024",
+      "filename": "lineage-22.2-20250820-SPECIAL-Tuki-pipa.zip",
+      "id": "f70e2accd08249177a54a8e0792a4a67cd1f8cf68b1525b188feef4ec03aee81",
+      "romtype": "SPECIAL",
+      "size": "2134510881",
+      "url": "https://github.com/pachdomenic/Lineage_OTA/releases/download/lineage-22.2-20250820-SPECIAL-Tuki-pipa/lineage-22.2-20250820-SPECIAL-Tuki-pipa.zip",
+      "version": "22.2"
+    }
+  ]
+}
