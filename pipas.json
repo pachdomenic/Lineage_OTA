@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1755648024",
-      "filename": "lineage-22.2-20250820-SPECIAL-Tuki-pipa.zip",
-      "id": "f70e2accd08249177a54a8e0792a4a67cd1f8cf68b1525b188feef4ec03aee81",
+      "datetime": "1763744514",
+      "filename": "lineage-23.0-20251121-SPECIAL-Tuki-pipa.zip",
+      "id": "e08da7f0e25a2055223f83f2a10dae3d914cc954be1bf646274586b9f075e84c",
       "romtype": "SPECIAL",
-      "size": "2134510881",
-      "url": "https://github.com/pachdomenic/Lineage_OTA/releases/download/lineage-22.2-20250820-SPECIAL-Tuki-pipa/lineage-22.2-20250820-SPECIAL-Tuki-pipa.zip",
-      "version": "22.2"
+      "size": "2244749830",
+      "url": "https://github.com/pachdomenic/Lineage_OTA/releases/download/lineage-23.0-20251121-SPECIAL-Tuki-pipa.zip/lineage-23.0-20251121-SPECIAL-Tuki-pipa.zip",
+      "version": "23.0"
     }
   ]
 }
